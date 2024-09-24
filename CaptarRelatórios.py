@@ -87,8 +87,8 @@ try:
     driver.get('https://erp.tiny.com.br/')
 
 # Login Tiny
-    esperar_e_enviar_texto('//*[@id="kc-content-wrapper"]/react-login/div/div/div[1]/div[1]/div[1]/form/div[1]/div/input', 'adm01@talatto.com.br')
-    esperar_e_enviar_texto('//*[@id="kc-content-wrapper"]/react-login/div/div/div[1]/div[1]/div[1]/form/div[2]/div/input', 'Talattomudar123@')
+    esperar_e_enviar_texto('//*[@id="kc-content-wrapper"]/react-login/div/div/div[1]/div[1]/div[1]/form/div[1]/div/input', '*****************')
+    esperar_e_enviar_texto('//*[@id="kc-content-wrapper"]/react-login/div/div/div[1]/div[1]/div[1]/form/div[2]/div/input', '*****************')
     esperar_e_clicar('//*[@id="kc-content-wrapper"]/react-login/div/div/div[1]/div[1]/div[1]/form/div[3]/button')
     esperar_e_clicar('//*[@id="bs-modal-ui-popup"]/div/div/div/div[3]/button')
 
@@ -114,8 +114,8 @@ try:
     driver.get('https://lirasistemas.com.br/nfe/')
     
 # Login
-    esperar_e_enviar_texto('//*[@id="user"]', 'cristian_talatto')
-    esperar_e_enviar_texto('//*[@id="senha"]', 'mudar123')
+    esperar_e_enviar_texto('//*[@id="user"]', '*****************')
+    esperar_e_enviar_texto('//*[@id="senha"]', '*****************')
     esperar_e_clicar('//*[@id="login"]/form/fieldset/div[1]/span[2]/input')
 
 # Tempo para fazer o login
