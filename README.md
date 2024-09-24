@@ -17,6 +17,7 @@ Sinta-se à vontade para explorar, contribuir ou sugerir melhorias.
 Nesse projeto, através de automação web, faço o download de dois relatórios em dois sistemas diferentes, que posteriormente são importados no google planilhas. Houve bastante dificuldade em integrar python com o google planilhas, por isso optei por dividir o processo em dois. Toda a parte da automação para captar os relatórios está em python, já para importar esses relatórios utilizei o apps script do próprio google planilhas. Para iniciar a parte da importação, utilizei os acionadores do próprio apps script.
 
 https://github.com/Ckistian-dev/Ckistian-dev/blob/main/CaptarRelatórios.py
+
 https://github.com/Ckistian-dev/Ckistian-dev/blob/main/CaptarRelatórios.js
 
   
