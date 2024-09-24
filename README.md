@@ -5,7 +5,7 @@ Sinta-se à vontade para explorar, contribuir ou sugerir melhorias.
 
 ## Sobre Mim
 
-- 👋 Olá! Eu sou Cristian Gabriel Kist, aspirante a desenvolvedor.
+- 👋 Meu nome é Cristian Gabriel Kist, aspirante a desenvolvedor.
 - 🌱 Atualmente trabalho na Talatto Painéis, desenvolvendo automações web e trabalhando com banco de dados.
 - 💬 Estou sempre aberto para colaborar em projetos interessantes e aprender mais.
 - 📫 Você pode me contatar via email: crisgkist@gmail.com.
