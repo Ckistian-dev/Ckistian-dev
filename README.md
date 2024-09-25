@@ -16,11 +16,15 @@ Sinta-se à vontade para explorar, contribuir ou sugerir melhorias.
 
 Este projeto realiza a automação do processo de login em contas do Facebook, acessa o Facebook Marketplace e captura a quantidade de visualizações de publicações. Os dados capturados são armazenados em uma planilha do Google Sheets automaticamente. A maior dificuldade encontrada foi no processo de captar os dados das visualizações, por conta da similiaridade dos códigos do site facebook, dificultando encontrar dados específicos.
 
+https://youtu.be/95tHRO_FZ20
+
 https://github.com/Ckistian-dev/Ckistian-dev/blob/main/Publicacoes_Facebook.py
 
 - **Captação de Relatórios**:
 
 Nesse projeto, através de automação web, faço o download de dois relatórios em dois sistemas diferentes, que posteriormente são importados no google planilhas. Houve bastante dificuldade em integrar python com o google planilhas, por isso optei por dividir o processo em dois. Toda a parte da automação para captar os relatórios está em python, já para importar esses relatórios utilizei o apps script do próprio google planilhas. Para iniciar a parte da importação, utilizei os acionadores do próprio apps script.
+
+https://youtu.be/BnvEjdgUhJ4
 
 https://github.com/Ckistian-dev/Ckistian-dev/blob/main/CaptarRelatórios.py
 
