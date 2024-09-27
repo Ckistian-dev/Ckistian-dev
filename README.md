@@ -30,7 +30,14 @@ https://github.com/Ckistian-dev/Ckistian-dev/blob/main/CaptarRelatórios.py
 
 https://github.com/Ckistian-dev/Ckistian-dev/blob/main/CaptarRelatórios.js
 
-  
+- **Gerador de Orçamentos**:
+
+Nesse projeto, a função gera um orçamento automatizado no Google Planilhas com base em dados de duas abas: `Orçamento` e `Dados`. O cálculo considera o valor de frete, perdas, e descontos por quantidade, além de permitir a inclusão de brindes. O processo envolve a busca de informações sobre os produtos, o cálculo da quantidade de peças necessárias com base em dimensões fornecidas, e a aplicação de descontos automáticos quando o cliente compra em grandes quantidades. Além disso, o código calcula o valor total, adiciona o frete e oferece opções de parcelamento ou desconto para pagamento via Pix. O resultado final é exibido em uma célula específica da planilha, facilitando a visualização e o compartilhamento do orçamento.
+
+https://docs.google.com/spreadsheets/d/1DpKVd2aVaYWnP0Yo4pl2kJd9H4N3VvGzA163Brr9brM/edit?usp=sharing
+
+https://github.com/Ckistian-dev/Ckistian-dev/blob/main/GerarOrçamento.js
+
 ## Como Contribuir
 
 Contribuições são bem-vindas! Para contribuir com meus projetos:
